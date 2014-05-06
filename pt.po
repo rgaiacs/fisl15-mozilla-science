@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-05 23:42-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+
+#: ./index.html+html.head.title:5
+msgid "Mozilla Web Science Lab - Early First Year Birthday"
+msgstr "Mozilla Web Science Lab - Primeiro Aniversário Antecipado"
+
+#: ./index.html+html.head.meta:-1
+msgid "width=792, user-scalable=no"
+msgstr ""
+
+#: ./index.html+html.head.meta:-1
+msgid "ie=edge"
+msgstr ""
+
+#: ./index.html+html.body.header.h1:19
+msgctxt "./index.html html.body.header.h1:19"
+msgid "Mozilla Web Science Lab"
+msgstr "Mozilla Web Science Lab"
+
+#: ./index.html+html.body.header.h2:20
+msgctxt "./index.html html.body.header.h2:20"
+msgid "Early First Year Birthday"
+msgstr "Primeiro Aniversário Antecipado"
+
+#: ./index.html+html.body.header.p:21
+msgid ""
+"By Raniere Silva: &lt;<a href=\"mailto:raniere@ime.unicamp.br\""
+">raniere@ime.unicamp.br</a>&gt;"
+msgstr ""
+"Por Raniere Silva: &lt;<a href=\"mailto:raniere@ime.unicamp.br\""
+">raniere@ime.unicamp.br</a>&gt;"
+
+#: ./index.html+html.body.section.div.h2:25
+msgctxt "./index.html html.body.section.div.h2:25"
+msgid "Mozilla Web Science Lab"
+msgstr "Mozilla Web Science Lab"
+
+#: ./index.html+html.body.section.div.h3:26
+msgctxt "./index.html html.body.section.div.h3:26"
+msgid "Early First Year Birthday"
+msgstr "Primeiro Aniversário Antecipado"
+
+#: ./index.html+html.body.section.div.h2:35
+msgid ""
+"Help researchers use the power of the open web to change science's future"
+msgstr "Ajudando pesquisadores a utilizar o poder da open web para mudar o "
+"futuro da ciência"
+
+#: ./index.html+html.body.section.div.h2:44
+msgid "What is open science?"
+msgstr "O que é ciência aberta?"
+
+#: ./index.html+html.body.section.div.h2:49
+msgid "Not just gratis PDF article!!!"
+msgstr "Não apenas PDFs de artigos grátis!!!"
+
+#: ./index.html+html.body.section.div.ul.li:51
+msgid "access to content, data, code, materials, ..."
+msgstr "acesso a conteúdo, dados, códigos, suplementos, ..."
+
+#: ./index.html+html.body.section.div.ul.li:52
+msgid "emergence of web-native tools"
+msgstr "surgimento de ferramentas web"
+
+#: ./index.html+html.body.section.div.ul.li:53
+msgid "rewards for openness, interoperability, collaboration, sharing"
+msgstr "incentivo para abertura, interoperabilidade, colaboração, compartilhamento"
+
+#: ./index.html+html.body.section.div.ul.li:55
+msgid "push for ROI (Return on Investment), recomputability, transparency"
+msgstr "busca pelo retorno do investimento, reprodutividade, transparência"
+
+#: ./index.html+html.body.section.div.h2:65
+msgid "Teach"
+msgstr "Ensino"
+
+#: ./index.html+html.body.section.div.h2:73
+msgid "Software Carpentry"
+msgstr "Software Carpentry"
+
+#: ./index.html+html.body.section.div.ul.li:75
+msgid "unix shell"
+msgstr "terminal unix"
+
+#: ./index.html+html.body.section.div.ul.li:76
+msgid "control version (e.g. Git and GitHub)"
+msgstr "controle de versão (e.g. Git e GitHub)"
+
+#: ./index.html+html.body.section.div.ul.li:77
+msgid "good programming practices with Python or R"
+msgstr "boas práticas de programação em Python ou R"
+
+#: ./index.html+html.body.section.div.ul.li:78
+msgid "databases"
+msgstr "banco de dados"
+
+#: ./index.html+html.body.section.div.h2:88
+msgid "Workshops"
+msgstr "Workshops"
+
+#: ./index.html+html.body.section.div.h2:97
+msgid "Rewards"
+msgstr "Incentivos"
+
+#: ./index.html+html.body.section.div.h2:105
+msgid "Code as a research object"
+msgstr "Código como um objeto de pesquisa"
+
+#: ./index.html+html.body.section.div.h2:113
+msgid "Code Review in Science"
+msgstr "Revisão de Códigos na Ciência"
+
+#: ./index.html+html.body.section.div.h2:121
+msgid "First Study"
+msgstr "Primeiro Estudo"
+
+#: ./index.html+html.body.section.div.h2:129
+msgid "Second Study"
+msgstr "Segundo Estudo"
+
+#: ./index.html+html.body.section.div.h2:137
+msgid "2014 didn't end yet."
+msgstr "2014 ainda não acabou."
+
+#: ./index.html+html.body.section.div.h2:145
+msgid "Getting news"
+msgstr "Obtendo novidades"
+
+#: ./index.html+html.body.section.div.ul.li:147
+msgid "Mozilla Science Lab blog"
+msgstr "Blog da Mozilla Science Lab"
+
+#: ./index.html+html.body.section.div.ul.li:150
+msgid "Software Carpentry blog"
+msgstr "Blog da Software Carpentry"
+
+#: ./index.html+html.body.section.div.ul.li:153
+msgid "Mozilla Science Lab mail list"
+msgstr "Lista de email da Mozilla Science Lab"
+
+#: ./index.html+html.body.section.div.ul.li:156
+msgid ""
+"<a href=\"http://twitter.com/MozillaScience/\">@MozillaScience</a> on Twitter"
+msgstr "<a href=\"http://twitter.com/MozillaScience/\">@MozillaScience</a> no Twitter"
+
+#: ./index.html+html.body.section.div.ul.li:158
+msgid "<a href=\"http://twitter.com/swcarpentry/\">@swcarpentry</a> on Twitter"
+msgstr "<a href=\"http://twitter.com/swcarpentry/\">@swcarpentry</a> no Twitter"
+
+#: ./index.html+html.body.section.div.h2:168
+msgid "You can help"
+msgstr "Você pode ajudar"
+
+#: ./index.html+html.body.section.div.ul.li:170
+msgid ""
+"Join <a href=\"https://wiki.mozilla.org/ScienceLab/Calls\">Mozilla Science "
+"Community Call</a>"
+msgstr "Participe das <a href=\"https://wiki.mozilla.org/ScienceLab/Calls\">Chamadas Comunitárias "
+"do Mozilla Science</a>"
+
+#: ./index.html+html.body.section.div.ul.li:173
+msgid ""
+"Attend and host a Software Carpentry workshop (you can also <a href=\""
+"http://teaching.software-carpentry.org/join/\">join the team</a>)"
+msgstr ""
+
+#: ./index.html+html.body.section.div.h2:184
+msgid "Thanks"
+msgstr "Obrigado"
+
+#: ./index.html+html.body.section.div.h2:189
+msgid "References"
+msgstr "Referencias"
+
+#: ./index.html+html.body.section.div.ul.li:191
+msgid "Introducing the Mozilla Science Lab"
+msgstr "Anúncio do Mozilla Science Lab"
+
+#: ./index.html+html.body.section.div.ul.li:193
+msgid "Code as a research object: updates, prototypes, next steps"
+msgstr "Código como um objeto de pesquisa: novidades, protótipos, próximos passos"
+
+#: ./index.html+html.body.section.div.ul.li:197
+msgid "Launching a second pilot study of code review in science"
+msgstr "Lançamento do segundo estudo piloto de revisão de código na ciência"
+
+#: ./index.html+html.body.section.div.ul.li:200
+msgid "What’s in store for 2014"
+msgstr "Propostas para 2014"
