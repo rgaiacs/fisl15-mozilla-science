@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-05 23:42-0200\n"
+"POT-Creation-Date: 2014-05-06 18:42-0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 
 #: ./index.html+html.head.title:5
-msgid "Mozilla Web Science Lab - Early First Year Birthday"
+msgid "Mozilla Science Lab - Early First Year Birthday"
 msgstr ""
 
 #: ./index.html+html.head.meta:-1
@@ -25,8 +25,7 @@ msgid "ie=edge"
 msgstr ""
 
 #: ./index.html+html.body.header.h1:19
-msgctxt "./index.html html.body.header.h1:19"
-msgid "Mozilla Web Science Lab"
+msgid "Mozilla Science Lab"
 msgstr ""
 
 #: ./index.html+html.body.header.h2:20
@@ -40,158 +39,235 @@ msgid ""
 ">raniere@ime.unicamp.br</a>&gt;"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:25
-msgctxt "./index.html html.body.section.div.h2:25"
-msgid "Mozilla Web Science Lab"
+#: ./index.html+html.body.header.a:-1
+msgid "Creative Commons License"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h3:26
-msgctxt "./index.html html.body.section.div.h3:26"
+#: ./index.html+html.body.section.div.h2:31
+msgctxt "./index.html html.body.section.div.h2:31"
 msgid "Early First Year Birthday"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:35
+#: ./index.html+html.body.section.div.footer.p:33
+msgid ""
+"Mozilla has a long history of push forward the web with many projects like "
+"WebFWD, PDF.js, TogetherJS, OpenBadges, Persona, Popcorn, Firefox OS, "
+"WebMaker, ..."
+msgstr ""
+
+#: ./index.html+html.body.section.div.footer.p:34
+msgid ""
+"In June 14, 2013, Mozilla start pushing forward the science in the web with "
+"Science Lab"
+msgstr ""
+
+#: ./index.html+html.body.section.div.h2:40
 msgid ""
 "Help researchers use the power of the open web to change science's future"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:44
+#: ./index.html+html.body.section.div.h2:49
 msgid "What is open science?"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:49
+#: ./index.html+html.body.section.div.h2:54
 msgid "Not just gratis PDF article!!!"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:51
+#: ./index.html+html.body.section.div.ul.li:56
 msgid "access to content, data, code, materials, ..."
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:52
+#: ./index.html+html.body.section.div.ul.li:57
 msgid "emergence of web-native tools"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:53
+#: ./index.html+html.body.section.div.ul.li:58
 msgid "rewards for openness, interoperability, collaboration, sharing"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:55
+#: ./index.html+html.body.section.div.ul.li:60
 msgid "push for ROI (Return on Investment), recomputability, transparency"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:65
+#: ./index.html+html.body.section.div.h2:70
 msgid "Teach"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:73
-msgid "Software Carpentry"
-msgstr ""
-
-#: ./index.html+html.body.section.div.ul.li:75
+#: ./index.html+html.body.section.div.ul.li:80
 msgid "unix shell"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:76
+#: ./index.html+html.body.section.div.ul.li:81
 msgid "control version (e.g. Git and GitHub)"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:77
+#: ./index.html+html.body.section.div.ul.li:82
 msgid "good programming practices with Python or R"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:78
+#: ./index.html+html.body.section.div.ul.li:83
 msgid "databases"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:88
+#: ./index.html+html.body.section.div.h2:92
 msgid "Workshops"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:97
+#: ./index.html+html.body.section.div.h2:101
 msgid "Rewards"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:105
+#: ./index.html+html.body.section.div.h2:109
 msgid "Code as a research object"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:113
+#: ./index.html+html.body.section.div.p:110
+msgid ""
+"Start give the same importance of articles to (a) softwares and (b) data "
+"providing a Digital Object Identifier."
+msgstr ""
+
+#: ./index.html+html.body.section.div.p:111
+msgid ""
+"Prototype and more information at <a href=\"http://mozillascience.github.io"
+"/code-research-object/\">http://mozillascience.github.io/code-research-"
+"object/</a>."
+msgstr ""
+
+#: ./index.html+html.body.section.div.h2:119
 msgid "Code Review in Science"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:121
+#: ./index.html+html.body.section.div.h2:127
 msgid "First Study"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:129
+#: ./index.html+html.body.section.div.ul.li:129
+msgid "Ran in second semester of 2013 and have PLOS as partnership."
+msgstr ""
+
+#: ./index.html+html.body.section.div.ul.li:131
+msgid "11 developers (most from Mozilla) and 4 authors of PLOS papers."
+msgstr ""
+
+#: ./index.html+html.body.section.div.ul.li:133
+msgid "The scientists appreciated the review."
+msgstr ""
+
+#: ./index.html+html.body.section.div.ul.li:134
+msgid "The developers felt constrained by their lack of domain knowledge."
+msgstr ""
+
+#: ./index.html+html.body.section.div.p:136
+msgid ""
+"More informations at <a href=\"http://arxiv.org/abs/1311.2412\">this arXiv "
+"pre-print</a>."
+msgstr ""
+
+#: ./index.html+html.body.section.div.h2:144
 msgid "Second Study"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:137
-msgid "2014 didn't end yet."
-msgstr ""
-
-#: ./index.html+html.body.section.div.h2:145
-msgid "Getting news"
+#: ./index.html+html.body.section.div.ul.li:146
+msgid "Running right now (12-weeks long)."
 msgstr ""
 
 #: ./index.html+html.body.section.div.ul.li:147
+msgid "More like coaching by \"experts\" developers."
+msgstr ""
+
+#: ./index.html+html.body.section.div.h2:155
+msgid "Others Conversations"
+msgstr ""
+
+#: ./index.html+html.body.section.div.footer.ul.li:158
+msgid "What should we teach about publishing on the web?"
+msgstr ""
+
+#: ./index.html+html.body.section.div.footer.ul.li:159
+msgid "Reproducible research"
+msgstr ""
+
+#: ./index.html+html.body.section.div.footer.ul.li:160
+msgid "What else is needed for code reuse?"
+msgstr ""
+
+#: ./index.html+html.body.section.div.h2:167
+msgid "2014 didn't end yet."
+msgstr ""
+
+#: ./index.html+html.body.section.div.h2:175
+msgid "Getting news"
+msgstr ""
+
+#: ./index.html+html.body.section.div.ul.li:177
 msgid "Mozilla Science Lab blog"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:150
+#: ./index.html+html.body.section.div.ul.li:180
 msgid "Software Carpentry blog"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:153
+#: ./index.html+html.body.section.div.ul.li:183
 msgid "Mozilla Science Lab mail list"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:156
+#: ./index.html+html.body.section.div.ul.li:186
 msgid ""
 "<a href=\"http://twitter.com/MozillaScience/\">@MozillaScience</a> on Twitter"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:158
+#: ./index.html+html.body.section.div.ul.li:188
 msgid "<a href=\"http://twitter.com/swcarpentry/\">@swcarpentry</a> on Twitter"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:168
+#: ./index.html+html.body.section.div.h2:198
 msgid "You can help"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:170
+#: ./index.html+html.body.section.div.ul.li:200
 msgid ""
 "Join <a href=\"https://wiki.mozilla.org/ScienceLab/Calls\">Mozilla Science "
 "Community Call</a>"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:173
+#: ./index.html+html.body.section.div.ul.li:203
 msgid ""
 "Attend and host a Software Carpentry workshop (you can also <a href=\""
 "http://teaching.software-carpentry.org/join/\">join the team</a>)"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:184
+#: ./index.html+html.body.section.div.h2:214
 msgid "Thanks"
 msgstr ""
 
-#: ./index.html+html.body.section.div.h2:189
+#: ./index.html+html.body.section.div.footer.p:216
+msgid ""
+"Mozilla Science Lab is supported by <a href=\"http://www.sloan.org/\">Alfred "
+"P. Sloan Foundation</a>."
+msgstr ""
+
+#: ./index.html+html.body.section.div.h2:223
 msgid "References"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:191
+#: ./index.html+html.body.section.div.ul.li:225
 msgid "Introducing the Mozilla Science Lab"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:193
+#: ./index.html+html.body.section.div.ul.li:227
 msgid "Code as a research object: updates, prototypes, next steps"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:197
+#: ./index.html+html.body.section.div.ul.li:231
 msgid "Launching a second pilot study of code review in science"
 msgstr ""
 
-#: ./index.html+html.body.section.div.ul.li:200
+#: ./index.html+html.body.section.div.ul.li:234
 msgid "What’s in store for 2014"
+msgstr ""
+
+#: ./index.html+html.body.section.div.ul.li:237
+msgid "PLOS/Mozilla Scientific Code Review Pilot: Summary of Findings"
 msgstr ""
