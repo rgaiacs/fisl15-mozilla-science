@@ -1,4 +1,4 @@
-# FISL 15 - Mozilla Web Science Lab
+# FISL 15 - Mozilla Science Lab
 
 This is the slide deck for my talk about [Mozilla Web Science
 Lab](http://mozillascience.org/) at [FISL 15](http://softwarelivre.org/fisl15).
