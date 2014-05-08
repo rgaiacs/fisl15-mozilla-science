@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-06 18:42-0200\n"
+"POT-Creation-Date: 2014-05-08 10:41-0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,10 +36,10 @@ msgstr "Primeiro Aniversário Antecipado"
 #: index.html+html.body.header.p:21
 msgid ""
 "By Raniere Silva: &lt;<a href=\"mailto:raniere@ime.unicamp.br\">raniere@ime."
-"unicamp.br</a>&gt;"
+"unicamp.br</a>&gt; or raniere on IRC"
 msgstr ""
 "Por Raniere Silva: &lt;<a href=\"mailto:raniere@ime.unicamp.br\">raniere@ime."
-"unicamp.br</a>&gt;"
+"unicamp.br</a>&gt; ou raniere no IRC"
 
 #: index.html+html.body.header.a:-1
 msgid "Creative Commons License"
@@ -179,8 +179,9 @@ msgstr ""
 msgid ""
 "More informations at <a href=\"http://arxiv.org/abs/1311.2412\">this arXiv "
 "pre-print</a>."
-msgstr "Mais informações <a href=\"http://arxiv.org/abs/1311.2412\">nesse "
-"pre-printthis disponível no arXiv</a>."
+msgstr ""
+"Mais informações <a href=\"http://arxiv.org/abs/1311.2412\">nesse pre-"
+"printthis disponível no arXiv</a>."
 
 #: index.html+html.body.section.div.h2:144
 msgid "Second Study"
@@ -226,26 +227,34 @@ msgstr "Blog da Mozilla Science Lab"
 msgid "Software Carpentry blog"
 msgstr "Blog da Software Carpentry"
 
-#: index.html+html.body.section.div.ul.li:183
+#: index.html+html.body.section.div.ul.li.li:183
 msgid "Mozilla Science Lab mail list"
 msgstr "Lista de email da Mozilla Science Lab"
 
-#: index.html+html.body.section.div.ul.li:186
+#: index.html+html.body.section.div.ul.li.li:185
+msgid ""
+"<a href=\"https://kiwiirc.com/client/irc.mozilla.org/#sciencelab"
+"\">#sciencelab</a> on IRC (irc.mozilla.org)"
+msgstr ""
+"<a href=\"https://kiwiirc.com/client/irc.mozilla.org/#sciencelab"
+"\">#sciencelab</a> no IRC (irc.mozilla.org)"
+
+#: index.html+html.body.section.div.ul.li:188
 msgid ""
 "<a href=\"http://twitter.com/MozillaScience/\">@MozillaScience</a> on Twitter"
 msgstr ""
 "<a href=\"http://twitter.com/MozillaScience/\">@MozillaScience</a> no Twitter"
 
-#: index.html+html.body.section.div.ul.li:188
+#: index.html+html.body.section.div.ul.li:190
 msgid "<a href=\"http://twitter.com/swcarpentry/\">@swcarpentry</a> on Twitter"
 msgstr ""
 "<a href=\"http://twitter.com/swcarpentry/\">@swcarpentry</a> no Twitter"
 
-#: index.html+html.body.section.div.h2:198
+#: index.html+html.body.section.div.h2:200
 msgid "You can help"
 msgstr "Você pode ajudar"
 
-#: index.html+html.body.section.div.ul.li:200
+#: index.html+html.body.section.div.ul.li:202
 msgid ""
 "Join <a href=\"https://wiki.mozilla.org/ScienceLab/Calls\">Mozilla Science "
 "Community Call</a>"
@@ -253,7 +262,7 @@ msgstr ""
 "Participe das <a href=\"https://wiki.mozilla.org/ScienceLab/Calls\">Chamadas "
 "Comunitárias do Mozilla Science</a>"
 
-#: index.html+html.body.section.div.ul.li:203
+#: index.html+html.body.section.div.ul.li:205
 msgid ""
 "Attend and host a Software Carpentry workshop (you can also <a href=\"http://"
 "teaching.software-carpentry.org/join/\">join the team</a>)"
@@ -262,11 +271,11 @@ msgstr ""
 "<a href=\"http://teaching.software-carpentry.org/join/\">juntar-se ao time</"
 "a>)"
 
-#: index.html+html.body.section.div.h2:214
+#: index.html+html.body.section.div.h2:216
 msgid "Thanks"
 msgstr "Obrigado"
 
-#: index.html+html.body.section.div.footer.p:216
+#: index.html+html.body.section.div.footer.p:218
 msgid ""
 "Mozilla Science Lab is supported by <a href=\"http://www.sloan.org/\">Alfred "
 "P. Sloan Foundation</a>."
@@ -274,27 +283,27 @@ msgstr ""
 "Mozilla Science Lab é financiado pela <a href=\"http://www.sloan.org/"
 "\">Alfred P. Sloan Foundation</a>."
 
-#: index.html+html.body.section.div.h2:223
+#: index.html+html.body.section.div.h2:225
 msgid "References"
 msgstr "Referencias"
 
-#: index.html+html.body.section.div.ul.li:225
+#: index.html+html.body.section.div.ul.li:227
 msgid "Introducing the Mozilla Science Lab"
 msgstr "Anúncio do Mozilla Science Lab"
 
-#: index.html+html.body.section.div.ul.li:227
+#: index.html+html.body.section.div.ul.li:229
 msgid "Code as a research object: updates, prototypes, next steps"
 msgstr ""
 "Código como um objeto de pesquisa: novidades, protótipos, próximos passos"
 
-#: index.html+html.body.section.div.ul.li:231
+#: index.html+html.body.section.div.ul.li:233
 msgid "Launching a second pilot study of code review in science"
 msgstr "Lançamento do segundo estudo piloto de revisão de código na ciência"
 
-#: index.html+html.body.section.div.ul.li:234
+#: index.html+html.body.section.div.ul.li:236
 msgid "What’s in store for 2014"
 msgstr "Propostas para 2014"
 
-#: index.html+html.body.section.div.ul.li:237
+#: index.html+html.body.section.div.ul.li:239
 msgid "PLOS/Mozilla Scientific Code Review Pilot: Summary of Findings"
 msgstr "PLOS/Mozilla Scientific Code Review Pilot: Summary of Findings"
